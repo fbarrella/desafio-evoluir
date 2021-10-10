@@ -1,2 +1,5 @@
 1. Obtenha o numero total de vogais em uma frase!
-Crie uma função que retornará o número de vogais encontradas em uma string. Essa é uma ótima maneira de praticar a coleta de informações sobre um conjunto de dados. Quando você utilizar JavaScript posteriormente em sua carreira, estará preparado para entender do que é feito um determinado conjunto de dados (strings, por exemplo). Se você quiser um desafio extra, considere retornar o número total de caracteres.
+Crie uma função que retornará o número de vogais encontradas em uma string. Essa é uma ótima maneira de 
+praticar a coleta de informações sobre um conjunto de dados. Quando você utilizar JavaScript posteriormente 
+em sua carreira, estará preparado para entender do que é feito um determinado conjunto de dados (strings, 
+por exemplo). Se você quiser um desafio extra, considere retornar o número total de caracteres.

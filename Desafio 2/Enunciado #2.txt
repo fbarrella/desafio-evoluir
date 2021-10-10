@@ -1,2 +1,9 @@
 2. Quanto pontos Marvin fez?
-Marvin é viciado em 'Angry Birds', tanto que se tornou famoso nas proximidades de Santos. O jogo possui várias etapas, e para cada etapa o jogador pode ganhar entre 0, 1, 2 ou 3 estrelas. Seu método deve receber um valor de lista (array) 'str result[]', contendo os resultados das partidas de Marvin. Para cada estágio, o índice 'i' da lista 'result' (result[i]) contém um elemento que especifica o resultado de Marvin naquele estágio. Por exemplo, se ele obteve 0 estrelas no estágio i, o result[i] seria “---”. Para 1 estrela, o resultado [i] seria “*--” e assim por diante. Faça um método que retorne o número total de estrelas que Marvin possui no momento.
+Marvin é viciado em 'Angry Birds', tanto que se tornou famoso nas proximidades de Santos. 
+O jogo possui várias etapas, e para cada etapa o jogador pode ganhar entre 0, 1, 2 ou 3 estrelas. 
+Seu método deve receber um valor de lista (array) 'str result[]', contendo os resultados das partidas 
+de Marvin. Para cada estágio, o índice 'i' da lista 'result' (result[i]) contém um elemento que 
+especifica o resultado de Marvin naquele estágio. Por exemplo, se ele obteve 0 estrelas no estágio i, 
+o result[i] seria “---”. Para 1 estrela, o resultado [i] seria “*--” e assim por diante. 
+
+Faça um método que retorne o número total de estrelas que Marvin possui no momento.

@@ -1,4 +1,9 @@
 4. Campeão do campeonato!
-Nas ligas de futebol, o vencedor de uma partida recebe 3 pontos e o perdedor 0 pontos. Em caso de empate, ambas as equipes recebem 1 ponto cada. Dado as listas 'int vitorias[]' e 'int empates[]', e sabendo que o i'ésimo elemento da lista de vitorias e empates corresponde ao número de vitórias e empates respectivamente para a equipe i: Faça um método que receba as listas, processe e retorne o número de pontos que o time campeão alcançou nesta liga.
+Nas ligas de futebol, o vencedor de uma partida recebe 3 pontos e o perdedor 0 pontos. Em caso de empate, 
+ambas as equipes recebem 1 ponto cada. Dado as listas 'int vitorias[]' e 'int empates[]', e sabendo que 
+o i'ésimo elemento da lista de vitorias e empates corresponde ao número de vitórias e empates 
+respectivamente para a equipe i: Faça um método que receba as listas, processe e retorne o número de 
+pontos que o time campeão alcançou nesta liga.
 
-Exemplo: Para as listas vitorias = [1,0,3] e empates = [2, 2, 0], o resultado seria 9 (a equipe em i = 2 ganharia este campeonato).
+Exemplo: Para as listas vitorias = [1,0,3] e empates = [2, 2, 0], o resultado seria 9 (a equipe em i = 2 
+ganharia este campeonato).

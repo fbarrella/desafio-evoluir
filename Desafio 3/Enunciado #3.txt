@@ -1,2 +1,6 @@
 3. Contador de horas assustadoras!
-Suponha que recebemos um relógio que apita toda vez que uma hora "assustadora" aparece. Esse relógio mostra a hora como 'HH:MM', onde HH é a hora e MM são os minutos. Digamos que um momento é considerado assustador se esse estiver formatado como AB:AB, AA:BB, AB:BA ou AA:AA. Faça um método que receba uma lista 'str momentos[]', onde cada elemento representa um único momento de tempo. Retorne quantas vezes o relógio apitou. Por exemplo, para uma entrada ["11:00", "13:13", "10:00"], o resultado seria 2.
+Suponha que recebemos um relógio que apita toda vez que uma hora "assustadora" aparece. Esse relógio 
+mostra a hora como 'HH:MM', onde HH é a hora e MM são os minutos. Digamos que um momento é considerado 
+assustador se esse estiver formatado como AB:AB, AA:BB, AB:BA ou AA:AA. Faça um método que receba uma 
+lista 'str momentos[]', onde cada elemento representa um único momento de tempo. Retorne quantas vezes 
+o relógio apitou. Por exemplo, para uma entrada ["11:00", "13:13", "10:00"], o resultado seria 2.
